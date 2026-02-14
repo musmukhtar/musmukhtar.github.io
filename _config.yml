@@ -62,35 +62,35 @@ skills:
     - Resonant Frequency Tracking
   - category: Power Electronics Integration
     tools:
-	- High-Frequency Inverter Simulation
-	- LC Resonant Tank Design
-	- Three-Phase Semi-Controlled Rectifier
-	- IGBT & Thyristor Control
-	- Gate Driver Circuit Integration
+    - High-Frequency Inverter Simulation
+    - LC Resonant Tank Design
+    - Three-Phase Semi-Controlled Rectifier
+    - IGBT & Thyristor Control
+    - Gate Driver Circuit Integration
    
   - category: Hardware Interfacing & Signal Conditioning
     tools:
-	- Current & Voltage Sensor Interfacing
-	- Optocoupler Isolation
-	- RC Snubber Design
-	- Low-Pass Filtering
-	- Analog Signal Scaling
+    - Current & Voltage Sensor Interfacing
+    - Optocoupler Isolation
+    - RC Snubber Design
+    - Low-Pass Filtering
+    - Analog Signal Scaling
   - category: Prototyping & Engineering Practice
     tools:
-	- Rapid System Prototyping
-	- Functional System Simulation (Proteus)
-	- Circuit Schematic Design
-	- Basic PCB Layout Design
-	- Hardware–Firmware Integration
-	-Technical Debugging & Waveform Analysis
+    - Rapid System Prototyping
+    - Functional System Simulation (Proteus)
+    - Circuit Schematic Design
+    - Basic PCB Layout Design
+    - Hardware–Firmware Integration
+    -Technical Debugging & Waveform Analysis
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
-   - category: Tools & Platforms
+  - category: Tools & Platforms
     tools:
     - Proteus
-	- Git 
-	- Basic MATLAB 
-	- Oscilloscope Waveform Interpretation
+    - Git 
+    - Basic MATLAB 
+    - Oscilloscope Waveform Interpretation
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
