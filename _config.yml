@@ -15,11 +15,10 @@ title: Mustafa Elbashir's Portfolio # This is what shows up in the tab of the br
 name: Mustafa Elbashir
 headline: Embedded Systems Enginner Foucused on Real-Time control and Power Conversion 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-Embedded Systems Engineer with strong experience in real-time control and microcontroller-based system design. 
-Developed and simulated a high-frequency inverter for induction heating using Arduino Mega, implementing PWM control, 
-resonant frequency tracking, and PLL-based ZVS/ZCS optimization. Skilled in designing control logic, managing signal synchronization, 
-and integrating power electronics with embedded firmware. Passionate about building efficient, 
-intelligent control systems for industrial applications.
+  Embedded Systems Engineer with strong experience in real-time control and microcontroller-based system design. 
+  Developed and simulated a high-frequency inverter for induction heating using Arduino Mega, implementing PWM control, 
+  resonant frequency tracking, and PLL-based ZVS/ZCS optimization. Skilled in designing control logic, managing signal synchronization, 
+  and integrating power electronics with embedded firmware. Passionate about building efficient, intelligent control systems for industrial applications.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
