@@ -32,8 +32,9 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: musmukhtar    https://www.linkedin.com/in/musmukhtar
-  github: musmukhtar     https://github.com/musmukhtar
+  external-links:
+  linkedin: https://www.linkedin.com/in/musmukhtar
+  github: https://github.com/musmukhtar
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -67,7 +68,6 @@ skills:
     - Three-Phase Semi-Controlled Rectifier
     - IGBT & Thyristor Control
     - Gate Driver Circuit Integration
-   
   - category: Hardware Interfacing & Signal Conditioning
     tools:
     - Current & Voltage Sensor Interfacing
